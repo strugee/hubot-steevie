@@ -2,10 +2,15 @@
   "hubot-diagnostics",
   "hubot-help",
   "hubot-google-images",
-  "hubot-google-translate",
   "hubot-pugme",
-  "hubot-maps",
   "hubot-redis-brain",
   "hubot-rules",
-  "hubot-shipit"
+  "hubot-shipit",
+  "hubot-react",
+  "hubot-where",
+  "hubot-sentiment",
+  "hubot-at",
+  "hubot-cron",
+  "hubot-humorate",
+  "hubot-computerdogs"
 ]

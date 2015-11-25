@@ -6,17 +6,23 @@
   "description": "A Hubot for #robotchaterz",
   "dependencies": {
     "hubot": "^2.16.0",
+    "hubot-at": "0.0.4",
+    "hubot-cheers": "^1.0.0",
+    "hubot-computerdogs": "0.0.1",
+    "hubot-cron": "^0.2.9",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-images": "^0.2.3",
-    "hubot-google-translate": "^0.2.0",
     "hubot-help": "^0.1.2",
+    "hubot-humorate": "0.0.3",
     "hubot-irc": "^0.2.8",
-    "hubot-maps": "0.0.2",
     "hubot-pugme": "^0.1.0",
+    "hubot-react": "^4.1.1",
     "hubot-redis-brain": "0.0.3",
     "hubot-rules": "^0.1.1",
     "hubot-scripts": "^2.16.2",
-    "hubot-shipit": "^0.2.0"
+    "hubot-sentiment": "^1.2.6",
+    "hubot-shipit": "^0.2.0",
+    "hubot-where": "^0.1.0"
   },
   "engines": {
     "node": "0.10.x"
