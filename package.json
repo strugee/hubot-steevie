@@ -22,6 +22,7 @@
     "hubot-scripts": "^2.16.2",
     "hubot-sentiment": "^1.2.6",
     "hubot-shipit": "^0.2.0",
+    "hubot-thank-you": "0.0.3",
     "hubot-where": "^0.1.0"
   },
   "engines": {
