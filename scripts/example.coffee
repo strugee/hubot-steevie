@@ -92,7 +92,7 @@ module.exports = (robot) ->
     # Get number of sodas had (coerced to a number).
     sodasHad = robot.brain.get('totalSodas') * 1 or 0
   
-    if sodasHad > 4
+    if sodasHad > 2
       res.reply "I'm too fizzy.."
   
     else
