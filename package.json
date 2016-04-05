@@ -14,7 +14,6 @@
     "hubot-google-images": "^0.2.3",
     "hubot-help": "^0.1.2",
     "hubot-humorate": "0.0.3",
-    "hubot-irc": "^0.2.8",
     "hubot-pugme": "^0.1.0",
     "hubot-react": "^4.1.1",
     "hubot-redis-brain": "0.0.3",
@@ -23,7 +22,8 @@
     "hubot-sentiment": "^1.2.6",
     "hubot-shipit": "^0.2.0",
     "hubot-thank-you": "0.0.3",
-    "hubot-where": "^0.1.0"
+    "hubot-where": "^0.1.0",
+    "hubot-xmpp": "^0.2.1"
   },
   "engines": {
     "node": "0.10.x"
