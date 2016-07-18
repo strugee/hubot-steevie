@@ -50,9 +50,8 @@ easier way to do this has been implemented.
           $(find node_modules/{}/ -name "*.coffee")' | \
         awk -F '#' '{ printf "%-25s %s\n", $1, $2 }'
 
-How to set environment variables will be specific to your operating system.
-Rather than recreate the various methods and best practices in achieving this,
-it's suggested that you search for a dedicated guide focused on your OS.
+This particular Hubot is configured server-side in such a way that it will
+automatically load environment variables from `hubot.environment`.
 
 ### Scripting
 
