@@ -13,5 +13,22 @@
   "hubot-cron",
   "hubot-humorate",
   "hubot-computerdogs",
-  "hubot-thank-you"
+  "hubot-thank-you",
+  "hubot-brexit",
+  "hubot-pandapanda",
+  "hubot-httpdog",
+  "hubot-suggest",
+  "hubot-url-describer",
+  "hubot-iss",
+  "hubot-ascii-art",
+  "hubot-space-bot",
+  "hubot-insults",
+  "hubot-caps-lock",
+  "hubot-trying",
+  "hubot-marvin",
+  "hubot-d20",
+  "hubot-cheers",
+  "hubot-at",
+  "hubot-bangmotivate",
+  "hubot-murder"
 ]
