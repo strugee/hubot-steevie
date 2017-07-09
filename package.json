@@ -33,6 +33,7 @@
     "hubot-scripts": "^2.16.2",
     "hubot-sentiment": "^1.2.6",
     "hubot-shipit": "^0.2.0",
+    "hubot-source": "^1.0.0",
     "hubot-space-bot": "^0.1.1",
     "hubot-suggest": "0.0.1",
     "hubot-thank-you": "0.0.3",
