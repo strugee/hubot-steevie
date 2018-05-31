@@ -26,7 +26,7 @@
     "hubot-next": "^1.0.0",
     "hubot-pandapanda": "^0.9.3",
     "hubot-pugme": "^0.1.0",
-    "hubot-react": "github:strugee/hubot-react#patch-1",
+    "hubot-react": "^4.1.3",
     "hubot-redis-brain": "0.0.3",
     "hubot-rules": "^0.1.1",
     "hubot-scripts": "^2.16.2",
