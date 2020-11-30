@@ -34,7 +34,7 @@
     "hubot-shipit": "^0.2.0",
     "hubot-source": "^1.0.0",
     "hubot-space-bot": "^0.1.1",
-    "hubot-suggest": "0.0.1",
+    "hubot-suggest": "1.0.0",
     "hubot-thank-you": "0.0.3",
     "hubot-trying": "^0.1.6",
     "hubot-url-describer": "^0.1.1",
