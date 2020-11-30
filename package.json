@@ -16,7 +16,7 @@
     "hubot-d20": "^1.0.0",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-images": "^0.2.3",
-    "hubot-help": "^0.1.2",
+    "hubot-help": "^1.0.0",
     "hubot-httpdog": "^1.0.1",
     "hubot-humorate": "0.0.3",
     "hubot-insults": "^1.0.1",
