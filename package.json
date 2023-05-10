@@ -5,7 +5,7 @@
   "author": "Alex Jordan <alex@strugee.net>",
   "description": "A Hubot for #robotchaterz",
   "dependencies": {
-    "hubot": "^2.16.0",
+    "hubot": "^3.5.0",
     "hubot-ascii-art": "^1.1.1",
     "hubot-at": "0.0.4",
     "hubot-bangmotivate": "^0.1.0",
