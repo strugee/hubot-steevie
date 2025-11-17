@@ -39,7 +39,7 @@
     "hubot-trying": "^0.1.6",
     "hubot-url-describer": "^0.1.1",
     "hubot-where": "^0.1.0",
-    "hubot-xmpp": "^0.2.1"
+    "hubot-xmpp": "^0.3.0"
   },
   "engines": {
     "node": "0.10.x"
